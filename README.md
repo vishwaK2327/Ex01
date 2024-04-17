@@ -29,6 +29,9 @@
 
 ## OUTPUT
 
+<img width="853" alt="image" src="https://github.com/vishwaK2327/Ex01/assets/165984295/220973d6-229a-4dbf-ae3e-9a633c9303de">
+
+<img width="853" alt="image-1" src="https://github.com/vishwaK2327/Ex01/assets/165984295/bd1e5f61-e016-4771-ba74-fc4400a67559">
 
 ## RESULT
   The basic commands in networking are executed successfully.
